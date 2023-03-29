@@ -3,7 +3,7 @@
 int main ()
 {
 int n = 0, i = 0, largest1 = 0, largest2 = 0, temp = 0;
-printf ("Enter the size of the array\n");
+printf (" krishna Enter the size of the array\n");
 scanf ("%d", &n);
 int array[n];
 printf ("Enter the elements\n");
